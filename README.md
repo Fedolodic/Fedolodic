@@ -29,3 +29,10 @@
 <a href="https://stackoverflow.com/users/fedolodic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="fedolodic" height="30" width="30" /></a>
 <a href="https://codesandbox.com/fedolodic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fedolodic" height="30" width="30" /></a>
 </p>
+
+<h1 align="center"></h1>
+
+<h4 align="center">Favorite Quote</h4>
+<p align="center"><em>"The answer to the meaning of life is to become one. Like a child, become one years old, with the excitement of discovering everything about the world. In whatever you take on, become one, the best, excel, drive yourself to perfection with every one of your tasks. Become one when people are separate, become one, come together, learn to understand each other."</em></p>
+<p align="right">- Linguistics professor at Harvard to Manolis Kellis, professor at MIT, on the meaning of life.</p>
+<p align="right">Absolutely <em><b>beautiful</b></em></p>

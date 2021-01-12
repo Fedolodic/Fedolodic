@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **On average, each person gets 1 billion heartbeats in their lifetime. Just you reading this has made you use about a dozen. We aren't forever so I chose to live a life worth living :)**
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedolodic&layout=compact&hide=html" alt="fedolodic" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fedolodic&show_icons=true" alt="fedolodic" />
 
 <p align="center">

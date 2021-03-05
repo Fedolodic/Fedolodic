@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, JavaScript, React, SDLC & Fast Prototyping**
 
-- 📫 How to reach me **jdm150130@utdallas.edu**
+- 📫 How to reach me **david.mtz00@hotmail.com**
 
 - ⚡ Fun fact **On average, each person gets 1 billion heartbeats in their lifetime. Just you reading this has made you use about a dozen. We aren't forever so I chose to live a life worth living :)**
 

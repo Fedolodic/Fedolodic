@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fedolodic](https://github.com/Fedolodic)
 
-- 📝 I regulary write articles on [https://open-dsa.now.sh/blog](https://open-dsa.now.sh/blog)
+- 📝 I sparingly write articles on [https://open-dsa.now.sh/blog](https://open-dsa.now.sh/blog)
 
 - 💬 Ask me about **Python, JavaScript, React, SDLC & Fast Prototyping**
 
 - 📫 How to reach me **david.mtz00@hotmail.com**
 
-- ⚡ Fun fact **On average, each person gets 1 billion heartbeats in their lifetime. Just you reading this has made you use about a dozen. We aren't forever so I chose to live a life worth living :)**
+- ⚡ Fun fact **On average, each person gets 1 billion heartbeats in their lifetime. Just you reading this has made you use about a half a dozen.**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedolodic&layout=compact&hide=html" alt="fedolodic" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fedolodic&show_icons=true" alt="fedolodic" />

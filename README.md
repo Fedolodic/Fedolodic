@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Open Data Structures & Algorithms](https://open-dsa.now.sh/)
 
-- 🌱 I’m currently learning **Precaching using service workers, Knowledge through inductive reasoning & Server-driven UI rendering engines for web, TV, Android, and iOS devices**
+- 🌱 I’m currently learning **Precaching using service workers, Autonomous systems of knowledge through inductive reasoning & Server-driven UI rendering engines for web, TV, Android, and iOS devices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fedolodic](https://github.com/Fedolodic)
 
